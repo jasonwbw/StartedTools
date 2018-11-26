@@ -22,6 +22,7 @@
 
 #### Tensorflow
 [hred & vhred by AdversarialDialogue](https://github.com/WolfNiu/AdversarialDialogue)
+[CVAE leveraging emoji](https://github.com/Claude-Zhou/MojiTalk)
 
 #### Theano
 [vhred by author](https://github.com/sordonia/hed-dlg)
